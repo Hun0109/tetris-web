@@ -11,6 +11,8 @@
 
 ---
 
+실행 링크 : https://hun0109.github.io/tetris-web/
+
 ## ✨ 주요 특징 (Features)
 
 ### 1. 🌌 화려한 네온 & 사이버펑크 감성 비주얼
